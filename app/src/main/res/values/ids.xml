@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fm" type="id" />
+    <item name="create_task" type="id" />
+    <item name="fh" type="id" />
+    <item name="lm" type="id" />
+    <item name="lh" type="id" />
+    <item name="tm" type="id" />
+    <item name="th" type="id" />
+    <item name="range_text" type="id" />
+    <item name="tc" type="id" />
+    <item name="tn" type="id" />
+    <item name="guideline2" type="id" />
+</resources>
